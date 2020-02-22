@@ -3,5 +3,6 @@
 
 ## 2020-02-22 wework
 * @Ilwoo: 코드 리팩토링
-* @sla @juyeonH: Type Script를 사용하여 트위치API 토이 프로젝트
+* @sla: Type Script를 사용하여 트위치API 토이 프로젝트
+* @juyeonH: Redux toolkit + Type Script를 이용한 Todo List
 * @imho: 알고리즘 풀기
