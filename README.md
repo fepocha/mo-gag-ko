@@ -7,7 +7,7 @@
 * @juyeonH: Redux toolkit + Type Script를 이용한 Todo List
 * @imho: 알고리즘 풀기
 
-2020-02-29 을지로
+## 2020-02-29 을지로
 @Ilwoo: 코드 리팩토링
 @sla: 개발일지 마무리하기 + Context 공부 + Type Script를 사용하여 트위치API 토이 프로젝트
 @imho: 문서작성
