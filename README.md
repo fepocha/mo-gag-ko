@@ -1,6 +1,10 @@
 # 모각코
 주말에 **모**여서 **각**자(각잡고) **코**딩한 내용을 쓰는 개발 일지(모여서 의미 있는 시간을 보내자🥰)
 
+## 2020-03-07 book-and-rest
+* @Ilwoo: 
+* @Imho: pc에 virtualbox 설치 및 CentOS linux vm 구동, APM (Apache+php+MariaDB 설치)
+
 ## 2020-02-22 wework
 * @Ilwoo: 코드 리팩토링
 * @sla: Type Script를 사용하여 트위치API 토이 프로젝트
