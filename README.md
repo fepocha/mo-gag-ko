@@ -1,6 +1,10 @@
 # 모각코
 주말에 **모**여서 **각**자(각잡고) **코**딩한 내용을 쓰는 개발 일지(모여서 의미 있는 시간을 보내자🥰)
 
+## 2020-03-14 maxim
+* @Ilwoo:
+* @sla: 회사코드 분석 / react dom 구현 방법 3가지 정리하기 / 제발 트위치 스터디좀 하쟈..제발 😭🙏 / js dom 문서보기
+
 ## 2020-03-07 book-and-rest
 * @Ilwoo: 블로그 플랫폼 velog로 옮기고 앞으로의 프로젝트 계획 트렐로 보드에 정리하기.
 * @Imho: pc에 virtualbox 설치 및 CentOS linux vm 구동, APM (Apache+php+MariaDB 설치)
