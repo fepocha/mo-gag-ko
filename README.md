@@ -3,7 +3,7 @@
 
 ## 2020-03-21 wework
 * @Ilwoo: 마이리얼트립 지원 o / You don't know JS 번역 o
-* @sla: 
+* @sla: 개발일지 회사 study 카테고리로 빼내기 / 트위치 스터디!!!!! / SemVer 란? 
 * @Imho: 
 * @juyeonH: 
 
