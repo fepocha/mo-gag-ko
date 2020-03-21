@@ -4,7 +4,7 @@
 ## 2020-03-21 wework
 * @Ilwoo: 마이리얼트립 지원 o / You don't know JS 번역 o
 * @sla: 개발일지 회사 study 카테고리로 빼내기 / 트위치 스터디!!!!! / SemVer 란? 
-* @Imho: 
+* @Imho: t아카데미 devops 1강 / it 운용체제 변화를 위한 devops 챕터1 리뷰 및 TIL 정리 
 * @juyeonH: https://im-developer.tistory.com/194 블로그 글 씀
 
 ## 2020-03-14 maxim
