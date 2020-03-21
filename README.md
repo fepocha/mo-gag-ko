@@ -5,7 +5,7 @@
 * @Ilwoo: 마이리얼트립 지원 o / You don't know JS 번역 o
 * @sla: 개발일지 회사 study 카테고리로 빼내기 / 트위치 스터디!!!!! / SemVer 란? 
 * @Imho: 
-* @juyeonH: 
+* @juyeonH: https://im-developer.tistory.com/194 블로그 글 씀
 
 ## 2020-03-14 maxim
 * @Ilwoo: 체계적인 스터디를 위한 구상 o / 라인 플러스 지원 o / You don't know JS 번역 o / 알고리즘 문제 풀기 o
