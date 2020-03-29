@@ -4,8 +4,8 @@
 ## 2020-03-29 wework
 * @Ilwoo: 코딜리티 레벨 1번 풀기
 * @sla: Same Tree 알고리즘 풀기 / semver test / DOM API도 봐야하고.. / TypeScript 해야하고 / 회사코드도 봐야하고.. / 
-* @Imho: 😴
-
+* @Imho: 🍯😴=> ✨💪 / 알고리즘을 통한 두뇌 훈련 (Leetcode: Same Tree) / it 운용체제 변화를 위한 devops 챕터 2  및 TIL 정리 
+ 
 ## 2020-03-28 fast five
 * @Ilwoo: Palindrome Linked List 알고리즘 품
 * @sla: github actions이란?? 
