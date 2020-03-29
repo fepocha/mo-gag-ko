@@ -1,6 +1,16 @@
 # 모각코
 주말에 **모**여서 **각**자(각잡고) **코**딩한 내용을 쓰는 개발 일지(모여서 의미 있는 시간을 보내자🥰)
 
+## 2020-03-29 wework
+* @Ilwoo: 코딜리티 레벨 1번 풀기
+* @sla: Same Tree 알고리즘 풀기
+* @Imho: 
+
+## 2020-03-28 fast five
+* @Ilwoo: Palindrome Linked List 알고리즘 품
+* @sla: github actions이란?? 
+* @dwook:Django
+
 ## 2020-03-21 wework
 * @Ilwoo: 마이리얼트립 지원 o / You don't know JS 번역 o
 * @sla: 개발일지 회사 study 카테고리로 빼내기 / 트위치 스터디!!!!! / SemVer 란? 
