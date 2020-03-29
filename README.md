@@ -9,7 +9,7 @@
 ## 2020-03-28 fast five
 * @Ilwoo: Palindrome Linked List 알고리즘 품
 * @sla: github actions이란?? 
-* @dwook:Django
+* @dwook: Django
 
 ## 2020-03-21 wework
 * @Ilwoo: 마이리얼트립 지원 o / You don't know JS 번역 o
