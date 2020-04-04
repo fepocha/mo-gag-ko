@@ -4,7 +4,7 @@
 ## 2020-04-04 wework
 * @Ilwoo: 마이리얼트립 코딩 테스트
 * @sla: github action + toy project / DOM API도 봐야하고.. / TypeScript 해야하고 / redux-thunk / toolkit
-* @dwook: 회사일
+* @dwook: Django 스터디 진행중
 * @myeongwon: 코드스피츠 es6 2편 복습
 
 
