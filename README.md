@@ -1,6 +1,13 @@
 # 모각코
 주말에 **모**여서 **각**자(각잡고) **코**딩한 내용을 쓰는 개발 일지(모여서 의미 있는 시간을 보내자🥰)
 
+## 2020-04-04 wework
+* @Ilwoo: 마이리얼트립 코딩 테스트
+* @sla: github action + toy project / DOM API도 봐야하고.. / TypeScript 해야하고 / redux-thunk / toolkit
+* @dwook: 회사일
+* @myeongwon: 코드스피츠 es6 2편 복습
+
+
 ## 2020-03-29 wework
 * @Ilwoo: 코딜리티 레벨 1번 풀기
 * @sla: Same Tree 알고리즘 풀기 / semver test / DOM API도 봐야하고.. / TypeScript 해야하고 / 회사코드도 봐야하고.. / 
