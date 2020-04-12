@@ -1,6 +1,13 @@
 # 모각코
 주말에 **모**여서 **각**자(각잡고) **코**딩한 내용을 쓰는 개발 일지(모여서 의미 있는 시간을 보내자🥰)
 
+## 2020-04-12 tandem
+* @Ilwoo: 채팅중 영상이 올라가는 이슈
+* @sla: 피보나치 수열 알고리즘 풀기 / TypeScript / clone coding
+* dwook: Ilwoo님과 같이 이슈해결
+* Imho: 덴마크 사람들처럼 
+
+
 ## 2020-04-04 wework
 * @Ilwoo: 마이리얼트립 코딩 테스트
 * @sla: github action + toy project / DOM API도 봐야하고.. / TypeScript 해야하고 / redux-thunk / toolkit
